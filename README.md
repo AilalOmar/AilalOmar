@@ -1,4 +1,22 @@
-## Hi there 👋
+# Omar Ailal
+
+AI & Data Science Engineering Student at **École Centrale Casablanca**, driven by the ambition to turn data into impactful and reliable decision-making systems.
+
+Currently developing machine learning and deep learning solutions through academic, research, and industrial projects, with experience in **predictive modeling, computer vision, and AI-powered decision support systems**. I enjoy working on problems that combine **strong theoretical foundations** with **real-world constraints**.
+
+My objective is to grow as a **Data Scientist / AI Engineer**, contributing to high-impact projects while building robust, interpretable, and scalable AI solutions that serve industry, finance, healthcare, and sustainability.
+
+### Technical Stack
+- **Data & ML:** Python, SQL, Scikit-learn, SVM, YOLOv8  
+- **Data Analysis & BI:** Pandas, Excel, Power BI  
+- **Web & Automation:** HTML, Node.js, React, n8n  
+- **Tools:** Git, GitHub, Project Management tools
+
+### Contact
+📧 omar.ailal@centrale-casablanca.ma  
+💼 linkedin.com/in/ailalomar  
+💻 github.com/AilalOmar
+
 
 <!--
 **AilalOmar/AilalOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

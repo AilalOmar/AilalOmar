@@ -14,8 +14,8 @@ My objective is to grow as a **Data Scientist / AI Engineer**, contributing to h
 
 ### Contact
 📧 omar.ailal@centrale-casablanca.ma  
-💼 linkedin.com/in/ailalomar  
-💻 github.com/AilalOmar
+💼 [linkedin.com/in/ailalomar](https://www.linkedin.com/in/omar-ailal-9805971a9/)  
+
 
 
 <!--

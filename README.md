@@ -10,7 +10,7 @@ My objective is to grow as a **Data Scientist / AI Engineer**, contributing to h
 - **Data & ML:** Python, SQL, Scikit-learn, SVM, YOLOv8  
 - **Data Analysis & BI:** Pandas, Excel, Power BI  
 - **Web & Automation:** HTML, Node.js, React, n8n  
-- **Tools:** Git, GitHub, Project Management tools
+- **Tools:** Git, GitHub, Vs Code, DocuBot
 
 ### Contact
 📧 omar.ailal@centrale-casablanca.ma  

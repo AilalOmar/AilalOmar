@@ -1,4 +1,4 @@
-# Omar Ailal
+# ABOUT ME !
 
 AI & Data Science Engineering Student at **École Centrale Casablanca**, driven by the ambition to turn data into impactful and reliable decision-making systems.
 

@@ -13,7 +13,7 @@ My objective is to grow as a **Data Scientist / AI Engineer**, contributing to h
 - **Tools:** Git, GitHub, Vs Code, DocuBot
 
 ### Contact
-📧 omar.ailal@centrale-casablanca.ma  
+📧 omar.ailal@student-cs.fr  
 💼 [linkedin.com/in/ailalomar](https://www.linkedin.com/in/omar-ailal-9805971a9/)  
 
 
